@@ -6,6 +6,8 @@ This Python script is designed to parse a PDF file containing motivation letters
 ## Prerequisites
 - Python 3.x
 - PyPDF2 Library (`pip install PyPDF2`)
+- A PDF input file with individual cover letters on each page.
+- A list of the companies to which you are willing to submit job applications.
 
 ## Usage
 1. Make sure you have Python 3.x installed on your system.
